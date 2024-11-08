@@ -1,0 +1,2 @@
+# untuk melimit memory bisa ditambahlkan --memory dengan m (mega) g(giga) dan --cpus ex 1 / 1.5 (1.5 cpus)
+docker container create --name samplenginx --publish 8080:80 --memory 100m --cpus 1.0 nginx:latest

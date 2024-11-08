@@ -1,0 +1,3 @@
+# megignore file di dalam docker mirip kayak git ignore 
+text/tmp
+text/*.log
